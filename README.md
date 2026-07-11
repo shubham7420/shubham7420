@@ -12,9 +12,7 @@ Python Developer 🐍 | Django Developer 🚀 | Computer Science Student 🎓
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=shubham7420&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
 <img src="https://img.shields.io/github/followers/shubham7420?label=Followers&style=for-the-badge"/>
-
 <img src="https://img.shields.io/github/stars/shubham7420?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
@@ -169,7 +167,6 @@ Research Areas:
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=shubham7420&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham7420&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -179,7 +176,11 @@ Research Areas:
 
 ---
 
+# 🏆 GitHub Trophies
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shubham7420&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</p>
 
 ---
 
@@ -194,28 +195,25 @@ Research Areas:
 # 📌 Featured Repositories
 
 ### 🌾 Smart Sheti
-https://github.com/shubham7420/smart_sheti1
+🔗 https://github.com/shubham7420/smart_sheti1
 
 ### 🎓 College Alumni Portal
-https://github.com/shubham7420/alumni
+🔗 https://github.com/shubham7420/alumni
 
 ### 🚗 Car Rental Management System
-(Add Your Repository Link)
+🔗 https://github.com/shubham7420/car-rental-system
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-
 <a href="mailto:patilshubham3464@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/shubham7420">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 ---
