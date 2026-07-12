@@ -254,10 +254,13 @@ https://www.researchgate.net/publication/397717452_AI_Smart_Farming_System
 
 ---
 
-# 🏆 GitHub Trophies
+<h1 align="center">🏆 GitHub Trophies</h1>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shubham7420&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=shubham7420&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -280,11 +283,20 @@ https://www.researchgate.net/publication/397717452_AI_Smart_Farming_System
 
 # 🐍 Contribution Snake
 
-> ⚠️ Requires GitHub Actions workflow (`.github/workflows/snake.yml`) to generate the snake animation.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/shubham7420/shubham7420/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shubham7420/shubham7420/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shubham7420/shubham7420/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/shubham7420/shubham7420/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 
