@@ -2,16 +2,16 @@
 
 <div align="center">
 
-### Python Developer 🐍 | Django Developer 🚀 | Computer Science Student 🎓
+### 🚀 Python Developer | Django Developer | B.E. Computer Engineering Student
 
 </div>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/shubham7420/shubham7420/main/git%20banner.png" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/shubham7420/shubham7420/main/git%20banner.png" width="100%" alt="Shubham Patil Banner"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Python+Developer+🐍;Django+Developer+🚀;Computer+Science+Student+🎓;AI+Smart+Agriculture+Researcher+🌾;Backend+Developer+💻;Open+Source+Learner+🌍;Building+Real+World+Applications+💡" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Python+Developer+🐍;Django+Developer+🚀;B.E.+Computer+Engineering+Student+🎓;AI+Smart+Agriculture+Researcher+🌾;Backend+Developer+💻;Open+Source+Learner+🌍;Building+Real+World+Applications+💡" />
 </p>
 
 <p align="center">
@@ -26,33 +26,61 @@
 
 ```yaml
 Name: Shubham Nanaso Patil
-Role: Python & Django Developer
-Education: B.Sc. Computer Science
-University: Savitribai Phule Pune University
+
+Role:
+  - Python Developer
+  - Django Backend Developer
+
+Education:
+  Degree: Bachelor of Engineering (B.E.)
+  Branch: Computer Engineering
+  University: Savitribai Phule Pune University (SPPU), Pune
+
 Location: Maharashtra, India
-Focus:
+
+Focus Areas:
   - Backend Development
   - REST APIs
   - Artificial Intelligence
   - Smart Agriculture
+  - Cloud Computing
+
 Current Learning:
   - Django REST Framework
   - PostgreSQL
   - Docker
   - AWS Cloud
   - DevOps
+  - System Design
+
+Career Goal:
+  - Become a Professional Backend Engineer
+  - Build AI Solutions for Agriculture
+  - Contribute to Open Source
 ```
 
 ### 👨‍💻 Highlights
 
-* 🎓 Computer Science Student
+* 🎓 B.E. Computer Engineering Student
 * 🐍 Python Developer
 * 🚀 Django & Flask Backend Developer
 * 🌾 Creator of AI Smart Farming System
 * 🎓 Developer of College Alumni Portal
 * 🚗 Developer of Car Rental Management System
-* 📚 Published Research Paper in Smart Agriculture
-* 💡 Passionate about solving real-world problems through technology
+* 📚 Published Research Work in Smart Agriculture
+* 💡 Passionate About Solving Real-World Problems Through Technology
+
+---
+
+# 🎯 2026 Goals
+
+* 🚀 Master Django REST Framework
+* ☁️ Learn AWS Cloud Services
+* 🐳 Deploy Applications Using Docker
+* 📈 Improve DSA Skills
+* 🌍 Contribute to Open Source Projects
+* 💼 Secure Software Development Internship
+* 🤖 Build More AI Applications
 
 ---
 
@@ -70,31 +98,43 @@ Current Learning:
 
 <img src="https://img.shields.io/badge/DevOps-FF6F00?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/System_Design-00599C?style=for-the-badge"/>
+
 </p>
 
 ---
 
-# 🛠️ Languages and Tools
+# 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,flask,postgres,mysql,sqlite,html,css,bootstrap,javascript,git,github,linux,vscode,postman,docker" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,postgres,mysql,sqlite,html,css,bootstrap,javascript,git,github,linux,vscode,postman,docker,aws" />
 </p>
 
 ---
 
 # ⚡ Tech Stack
 
-| Category        | Technologies              |
-| --------------- | ------------------------- |
-| Programming     | Python, JavaScript        |
-| Backend         | Django, Flask, REST APIs  |
-| Database        | PostgreSQL, MySQL, SQLite |
-| Frontend        | HTML, CSS, Bootstrap      |
-| Version Control | Git, GitHub               |
-| Cloud           | AWS                       |
-| DevOps          | Docker                    |
-| Tools           | VS Code, Postman          |
-| OS              | Linux, Windows            |
+| Category          | Technologies              |
+| ----------------- | ------------------------- |
+| Programming       | Python, JavaScript        |
+| Backend           | Django, Flask, REST APIs  |
+| Database          | PostgreSQL, MySQL, SQLite |
+| Frontend          | HTML, CSS, Bootstrap      |
+| Version Control   | Git, GitHub               |
+| Cloud             | AWS                       |
+| DevOps            | Docker                    |
+| Tools             | VS Code, Postman          |
+| Operating Systems | Linux, Windows            |
+
+---
+
+# 🏅 Achievements
+
+* 📚 Published Research Work on AI Smart Farming System
+* 🌾 Developed AI-Based Agriculture Solution
+* 🚀 Built Multiple Real-World Projects
+* 💻 Strong Foundation in Python & Django
+* 🎓 Engineering Student at SPPU Pune
 
 ---
 
@@ -102,20 +142,27 @@ Current Learning:
 
 ## AI Smart Farming System
 
-Intelligent agriculture platform powered by Artificial Intelligence.
+An intelligent agriculture platform designed to help farmers make better decisions through Artificial Intelligence.
 
-### Features
+### Key Features
 
-* 🌱 Crop Management
-* 🚜 Equipment Rental
-* 🦠 Disease Detection
-* 🐛 Pest Detection
-* 🏛 Government Schemes Information
-* ☁ Weather Forecast Integration
-* 🤖 AI Chatbot
-* 📊 Farmer Dashboard
+✅ Crop Management
 
-### Tech Stack
+✅ Equipment Rental System
+
+✅ Disease Detection
+
+✅ Pest Detection
+
+✅ Government Schemes Information
+
+✅ Weather Forecast Integration
+
+✅ AI Chatbot
+
+✅ Farmer Dashboard
+
+### Technology Stack
 
 `Python` `Django` `PostgreSQL` `HTML` `CSS` `Bootstrap` `JavaScript`
 
@@ -130,12 +177,12 @@ Intelligent agriculture platform powered by Artificial Intelligence.
 ### Features
 
 * Alumni Network
+* Student-Alumni Communication
 * Event Management
 * Career Opportunities
 * Alumni Database
-* Student-Alumni Communication
 
-### Tech Stack
+### Technology Stack
 
 `Python` `Flask` `SQLite`
 
@@ -153,7 +200,7 @@ Intelligent agriculture platform powered by Artificial Intelligence.
 * Payment Management
 * Admin Dashboard
 
-### Tech Stack
+### Technology Stack
 
 `Python` `Django` `SQLite`
 
@@ -165,13 +212,13 @@ Intelligent agriculture platform powered by Artificial Intelligence.
 
 ## AI Smart Farming System
 
-Published research work focused on Artificial Intelligence in Smart Agriculture.
+Published research work focusing on Smart Agriculture and Artificial Intelligence.
 
 ### Research Areas
 
 * Artificial Intelligence
-* Precision Farming
 * Smart Agriculture
+* Precision Farming
 * Sustainable Agriculture
 
 📄 Research Publication
@@ -185,9 +232,9 @@ https://www.researchgate.net/publication/397717452_AI_Smart_Farming_System
 * 🌾 Agriculture Technology
 * 🤖 Artificial Intelligence
 * 🌐 Full Stack Applications
-* 📊 Data Driven Solutions
+* 📊 Data-Driven Systems
 * 🔗 REST APIs
-* ☁ Cloud Applications
+* ☁️ Cloud Applications
 
 ---
 
@@ -210,7 +257,7 @@ https://www.researchgate.net/publication/397717452_AI_Smart_Farming_System
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shubham7420&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shubham7420&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -223,31 +270,36 @@ https://www.researchgate.net/publication/397717452_AI_Smart_Farming_System
 
 ---
 
-# 🐍 Contribution Snake
+# 📊 Development Metrics
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/shubham7420/shubham7420/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham7420&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📌 Featured Repositories
+# 🐍 Contribution Snake
 
-### 🌾 Smart Sheti
+> ⚠️ Requires GitHub Actions workflow (`.github/workflows/snake.yml`) to generate the snake animation.
 
-https://github.com/shubham7420/smart_sheti1
-
-### 🎓 Alumni Portal
-
-https://github.com/shubham7420/alumni
-
-### 🚗 Car Rental Management System
-
-https://github.com/shubham7420/car-rental-system
+<p align="center">
+<img src="https://raw.githubusercontent.com/shubham7420/shubham7420/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# 🚀 Featured Projects
+
+| Project              | Description               | Tech Stack         |
+| -------------------- | ------------------------- | ------------------ |
+| 🌾 Smart Sheti       | AI Smart Farming Platform | Django, PostgreSQL |
+| 🎓 Alumni Portal     | Alumni Management System  | Flask, SQLite      |
+| 🚗 Car Rental System | Vehicle Rental Platform   | Django             |
+| 🤖 AI Smart Farming  | Research & AI Solution    | Python, AI         |
+
+---
+
+# 🌐 Coding Profiles
 
 <p align="center">
 
@@ -259,7 +311,7 @@ https://github.com/shubham7420/car-rental-system
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -273,7 +325,19 @@ https://github.com/shubham7420/car-rental-system
 * Django Developer Roles
 * Backend Development Projects
 * Open Source Contributions
-* Freelance Web Development
+* Freelance Web Development Projects
+
+---
+
+# 💡 Favorite Quote
+
+<div align="center">
+
+### "Technology becomes meaningful when it solves real-world problems."
+
+### — Shubham Nanaso Patil
+
+</div>
 
 ---
 
@@ -281,7 +345,7 @@ https://github.com/shubham7420/car-rental-system
 
 <div align="center">
 
-## 🚀 Building technology that empowers people and solves real-world challenges.
+## 🚀 Building Technology That Empowers People And Solves Real-World Challenges
 
 ### Learn • Build • Share • Grow
 
@@ -291,7 +355,7 @@ https://github.com/shubham7420/car-rental-system
 
 <div align="center">
 
-## ⭐ Thanks for Visiting My Profile
+## ⭐ Thanks For Visiting My Profile
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
 
