@@ -1,4 +1,4 @@
-![logo](https://github.com/shubham7420/shubham7420/blob/main/git%20banner.png)
+![Banner](https://github.com/shubham7420/shubham7420/blob/main/git%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Shubham Nanaso Patil</h1>
 
@@ -7,38 +7,35 @@ Python Developer 🐍 | Django Developer 🚀 | Computer Science Student 🎓
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Python+Developer+🐍;Django+Developer+🚀;Computer+Science+Student+🎓;Open+Source+Learner+🌍;Building+Real+World+Applications+💡;Django+REST+Framework+Enthusiast+🔥" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Python+Developer+🐍;Django+Developer+🚀;Computer+Science+Student+🎓;Open+Source+Learner+🌍;Building+Real+World+Applications+💡;Django+REST+Framework+Enthusiast+🔥" />
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=shubham7420&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/shubham7420?label=Followers&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/shubham7420?style=for-the-badge"/>
 <img src="https://img.shields.io/github/stars/shubham7420?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+---
 
-# 💫 About Me
+## 💫 About Me
 
-🎓 Computer Science Student at **Savitribai Phule Pune University**
+- 🎓 Computer Science Student at **Savitribai Phule Pune University**
+- 🐍 Passionate Python Developer
+- 🚀 Backend Developer specializing in **Django & Flask**
+- 🌾 Creator of **AI Smart Farming System**
+- 🎓 Developed **College Alumni Portal**
+- 🚗 Developed **Car Rental Management System**
 
-🐍 Passionate Python Developer
+### 🌱 Currently Learning
 
-🚀 Backend Developer specializing in Django & Flask
-
-🌾 Creator of **AI Smart Farming System**
-
-🎓 Developed **College Alumni Portal**
-
-🚗 Developed **Car Rental Management System**
-
-🌱 Currently Learning:
 - Django REST Framework
 - PostgreSQL
 - Cloud Deployment
 - System Design
 
-💬 Ask Me About:
+### 💬 Ask Me About
+
 - Python
 - Django
 - Flask
@@ -46,99 +43,77 @@ Python Developer 🐍 | Django Developer 🚀 | Computer Science Student 🎓
 - REST APIs
 - Web Development
 
-📍 Thane, Maharashtra, India 🇮🇳
+### 📫 Contact
 
-📫 Email:
-**patilshubham3464@gmail.com**
+📧 **patilshubham3464@gmail.com**
 
-⚡ Fun Fact:
-**I love solving real-world problems using technology.**
+### ⚡ Fun Fact
 
-<br clear="right"/>
+> I love solving real-world problems using technology.
 
 ---
 
-# 🚀 Current Goals
+## 🚀 Current Goals
 
-- 🚀 Master Django REST Framework
-- ☁️ Learn Cloud & DevOps
-- 🤝 Contribute to Open Source
-- 📚 Improve System Design Skills
-- 🧠 Explore AI & Machine Learning
+- Master Django REST Framework
+- Learn Cloud & DevOps
+- Contribute to Open Source
+- Improve System Design Skills
+- Explore AI & Machine Learning
 
 ---
 
-# 🌾 Featured Project
+## 🌾 Featured Project
 
-## AI Smart Farming System
+### AI Smart Farming System
 
-An intelligent agriculture platform built using Python, Django and PostgreSQL.
+Intelligent agriculture platform built with Python, Django & PostgreSQL.
+
+#### Features
+
+- Crop Management
+- Equipment Rental System
+- Disease Detection
+- Pest Detection
+- Government Schemes
+- Weather Forecast
+- AI Chatbot
+- Farmer Dashboard
+
+#### Tech Stack
+
+`Python` `Django` `PostgreSQL` `HTML` `CSS`
+`Bootstrap` `JavaScript`
+
+---
+
+## 🎓 College Alumni Portal
+
+Built using **Python & Flask**
 
 ### Features
 
-✅ Crop Management
-
-✅ Equipment Rental System
-
-✅ Disease Detection
-
-✅ Pest Detection
-
-✅ Government Schemes
-
-✅ Weather Forecast
-
-✅ AI Chatbot
-
-✅ Farmer Dashboard
-
-### Technology Used
-
-- Python
-- Django
-- PostgreSQL
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
+- Alumni Network
+- Student-Alumni Communication
+- Event Management
+- Career Opportunities
+- Alumni Database
 
 ---
 
-# 🎓 College Alumni Portal
-
-Built using Python & Flask
+## 🚗 Car Rental Management System
 
 ### Features
 
-✅ Alumni Network
-
-✅ Student-Alumni Communication
-
-✅ Event Management
-
-✅ Career Opportunities
-
-✅ Alumni Database
+- Vehicle Booking
+- Rental Tracking
+- Customer Management
+- Payment Management
+- Admin Dashboard
 
 ---
 
-# 🚗 Car Rental Management System
-
-### Features
-
-✅ Vehicle Booking
-
-✅ Rental Tracking
-
-✅ Customer Management
-
-✅ Payment Management
-
-✅ Admin Dashboard
-
----
-
-# 📄 Research Publication
+## 📄 Research Publication
 
 ### AI Smart Farming System
 
@@ -146,7 +121,7 @@ Built using Python & Flask
 
 🔗 https://www.researchgate.net/publication/397717452_AI_Smart_Farming_System
 
-Research Areas:
+**Research Areas**
 
 - Artificial Intelligence
 - Smart Agriculture
@@ -155,62 +130,60 @@ Research Areas:
 
 ---
 
-# 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,flask,postgres,mysql,sqlite,html,css,bootstrap,javascript,git,github,linux,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=python,django,flask,postgres,mysql,sqlite,html,css,bootstrap,javascript,git,github,linux,vscode,postman" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubham7420&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham7420&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubham7420&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham7420&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham7420&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shubham7420&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham7420&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham7420&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shubham7420&theme=tokyonight&no-frame=true&row=2&column=4" />
 </p>
 
 ---
 
-# 📌 Featured Repositories
+## 📈 Contribution Graph
 
-### 🌾 Smart Sheti
-🔗 https://github.com/shubham7420/smart_sheti1
-
-### 🎓 College Alumni Portal
-🔗 https://github.com/shubham7420/alumni
-
-### 🚗 Car Rental Management System
-🔗 https://github.com/shubham7420/car-rental-system
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham7420&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-# 🌐 Connect With Me
+## 📌 Featured Repositories
+
+| Project | Repository |
+|----------|------------|
+| 🌾 Smart Sheti | https://github.com/shubham7420/smart_sheti1 |
+| 🎓 Alumni Portal | https://github.com/shubham7420/alumni |
+| 🚗 Car Rental System | https://github.com/shubham7420/car-rental-system |
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="mailto:patilshubham3464@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/shubham7420">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -218,11 +191,11 @@ Research Areas:
 
 ---
 
-# 💭 Developer Quote
+## 💭 Developer Quote
 
 <div align="center">
 
-### 🚀 "Building technology that empowers people and solves real-world challenges."
+### 🚀 Building technology that empowers people and solves real-world challenges.
 
 </div>
 
