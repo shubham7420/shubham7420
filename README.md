@@ -254,12 +254,6 @@ https://www.researchgate.net/publication/397717452_AI_Smart_Farming_System
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham7420&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
 ---
 
 # 📈 Contribution Graph
